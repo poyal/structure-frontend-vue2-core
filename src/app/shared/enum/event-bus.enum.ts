@@ -1,0 +1,3 @@
+export enum EVENT_BUS_EVENTS {
+  SAMPLE_EVENT_BUS = 'SAMPLE_EVENT_BUS',
+}
