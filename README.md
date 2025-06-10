@@ -1,0 +1,1 @@
+# structure-frontend-vue2-core
