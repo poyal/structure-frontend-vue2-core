@@ -12,7 +12,7 @@
 
       <div>
         <label>userId</label>
-        <input v-model="add.userId" type="number">
+        <input v-model.number="add.userId" type="number">
       </div>
 
       <div>
